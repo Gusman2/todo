@@ -32,3 +32,4 @@ A simple and intuitive todo application built with Next.js, React, and Tailwind 
 ## Deployment
 
 This application can be easily deployed on Vercel or any other hosting platform that supports Next.js. # todo
+# todo
